@@ -1,0 +1,16 @@
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\bin\Debug\MigrateShelveset.exe
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\bin\Debug\MigrateShelveset.pdb
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.Properties.Resources.resources
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.csproj.GenerateResource.Cache
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.exe
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.pdb
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.MigrateShelveSet.resources
+\\NBSFiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.exe
+\\NBSFiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.pdb
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\bin\Debug\MigrateShelveset.exe
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\bin\Debug\MigrateShelveset.pdb
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.csprojResolveAssemblyReference.cache
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.Help.resources
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.MigrateShelveSet.resources
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.Properties.Resources.resources
+\\nbsfiles\Share\Common\Vishal\MigrateShelveset\MigrateShelveset\obj\x86\Debug\MigrateShelveset.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\bin\Release\MigrateShelveset.exe
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\bin\Release\MigrateShelveset.pdb
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.MigrateShelveSet.resources
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.Properties.Resources.resources
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.csproj.GenerateResource.Cache
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.exe
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.pdb
+c:\users\sarthak.goel\documents\visual studio 2010\Projects\MigrateShelveset\MigrateShelveset\obj\x86\Release\MigrateShelveset.Help.resources
